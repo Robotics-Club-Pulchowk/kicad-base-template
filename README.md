@@ -1,0 +1,1 @@
+# kicad-base-template
